@@ -1,0 +1,28 @@
+clear
+
+seek -e -f ls.c
+
+hop ..
+
+seek -e -d sample
+
+seek -e -f sample
+
+seek -f history
+
+seek -d sample
+
+seek -f sample
+
+seek -f samp;e
+
+seek -d .
+
+seek -f .
+
+seek .
+
+seek
+
+seek -d .
+seek
